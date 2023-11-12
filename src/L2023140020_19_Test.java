@@ -3,7 +3,7 @@ import static org.junit.Assert.assertArrayEquals;
 
 /**
  * 测试目的：验证Solution19类中gameOfLife方法的正确性
- * 测试用例设计原则：基于等价类划分原则，选取不同的初始状态，包括不同大小的板以及不同活细胞和死细胞的分布情况。
+ * 测试用例设计原则：基于等价类划分原则，选取不同的初始状态，包括不同大小的板以及不同活细胞和死细胞分布情况。
  */
 public class L2023140020_19_Test {
 
